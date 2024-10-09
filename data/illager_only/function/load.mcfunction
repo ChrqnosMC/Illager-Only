@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"Illager Only datapack has been reloaded"}]
